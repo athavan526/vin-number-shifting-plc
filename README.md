@@ -15,6 +15,10 @@ This repository contains a complete solution for VIN number shifting logic using
 
 ## Usage
 
+https://github.com/user-attachments/assets/c5a27258-7a72-4db9-a8ae-94c180c8af76
+
+
+
 1. **PLC Logic:**
     - Open GX Works3 and import `vin_shifting.gx3`
     - Load onto compatible Mitsubishi PLC hardware or use GX Works3 simulator
